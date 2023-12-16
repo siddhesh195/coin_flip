@@ -82,7 +82,7 @@ viz.plot <- animint(
   time = list(variable = "Iteration", ms = 100),
   first = list(Iteration = 1),
   title="Probability in flipping coins", 
-  source="https://github.com/siddhesh195/gsoc_animint/blob/main/MediumTest.Rmd"
+  source="https://github.com/siddhesh195/coin_flip/blob/main/TestMedium.Rmd"
 )
 
 animint2pages(viz.plot, 
